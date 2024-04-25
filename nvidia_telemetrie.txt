@@ -1,0 +1,9 @@
+! NVIDIA_TELEMETRIE
+||ls.dtrace.nvidia.com
+||telemetry.gfe.nvidia.com
+||accounts.nvgs.nvidia.com
+||accounts.nvgs.nvidia.cn
+||nvidia.tt.omtrdc.net
+||api.commune.ly
+||login.nvgs.nvidia.com
+||login.nvgs.nvidia.cn
